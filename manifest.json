@@ -1,37 +1,37 @@
 {
-  "name": "arsitur",
-  "short_name": "arsitur",
+  "name": "Arsitur Media Desain",
+  "short_name": "Arsitur",
   "start_url": "https://www.arsitur.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Arsitur adalah media mencari referensi dan inspirasi seputar desain.",
+  "description": "Referensi dan Inspirasi Desain Arsitektur, Interior, Landscape, Kawasan, Struktur, Material Bangunan, Contoh Gambar CAD, Sayembara dan Lain-lain",
   "icons": [{
-    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s48/icon_kta.png",
+    "src": "https://1.bp.blogspot.com/-j35z8ZuFcKU/XXYEDqiAM0I/AAAAAAAAEkc/VMYdLV5iBdA2LiEvCAv-zo5Mn9GmHFbeQCLcBGAs/s1600/Logo%2BArsitur%2B48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s72/icon_kta.png",
+    "src": "https://1.bp.blogspot.com/-XvCJWp0YI1c/XXYED9rCbOI/AAAAAAAAEkk/fT14sYLVafUbgwI13U0tGqwO7F31OGQ4QCLcBGAs/s1600/Logo%2BArsitur%2B72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s96/icon_kta.png",
+    "src": "https://1.bp.blogspot.com/-0A56EvD9jh0/XXYEEDL1D4I/AAAAAAAAEko/UbA4DSAOhegmt_p8cc7bcJ_tePaeKbgqwCLcBGAs/s1600/Logo%2BArsitur%2B96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s144/icon_kta.png",
+    "src": "https://1.bp.blogspot.com/-OtGrDEORyLQ/XXYEC9Bt5WI/AAAAAAAAEkU/xKawS4eRRdQx9NiOJLZKb7W7-FXYyL3AgCLcBGAs/s1600/Logo%2BArsitur%2B144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s168/icon_kta.png",
+    "src": "https://1.bp.blogspot.com/-RK9S3iM5yQI/XXYEC1rEmII/AAAAAAAAEkQ/VoPyuR3WGzYZhfXemvAdcEfY3-6aWDgTwCLcBGAs/s1600/Logo%2BArsitur%2B168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s192/icon_kta.png",
+    "src": "https://1.bp.blogspot.com/-rBq0gtNIjhc/XXYEC5ssmaI/AAAAAAAAEkY/qR_gI_9CDJ0PkbSi6jRaSyhq1Y7O7RUoQCLcBGAs/s1600/Logo%2BArsitur%2B192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s512/icon_kta.png",
+    "src": "https://1.bp.blogspot.com/-FEcSlAtEAq0/XXYED8HLapI/AAAAAAAAEkg/eIr8oy3NbsIo5ntxXyVal0H2BrjpQe93wCLcBGAs/s320/Logo%2BArsitur%2B512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
